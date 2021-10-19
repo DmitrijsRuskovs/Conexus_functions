@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Connexus_Functions</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\albin\Desktop\Dima\Connexus\Connexus_CSa_Functions.cs" Link="Connexus_CSa_Functions.cs" />
+    <Compile Include="C:\Users\albin\Desktop\Dima\Connexus\Connexus_Functions.cs" Link="Connexus_Functions.cs" />
+    <Compile Include="C:\Users\albin\Desktop\Dima\Connexus\Connexus_SQL_queries.ts" Link="Connexus_SQL_queries.ts" />
+  </ItemGroup>
+
+</Project>
